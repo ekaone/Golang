@@ -1,13 +1,13 @@
 # Golang
 🏌️‍♂️ Some programming experience by [Golang](https://golang.org/)
 
-## run `hello.go`
+## 🚀 run `hello.go`
 ```
 $ go run hello.go
 Hello, Eka!
 ```
 
-## run `quote.go`
+## 🚀 run `quote.go`
 
 ```
 $ go mod init quote
